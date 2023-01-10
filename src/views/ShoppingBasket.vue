@@ -1,4 +1,6 @@
-<template></template>
+<template>
+  <!-- 장바구니 -->
+</template>
 
 <script></script>
 
